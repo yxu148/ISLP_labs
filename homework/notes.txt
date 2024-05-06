@@ -1,0 +1,3 @@
+In Anaconda Prompt, under statlearn environment, run
+	jupyer lab D:\Application\ISLP_labs\homework\...\filename.ipynb
+to open the code in Jupyer
