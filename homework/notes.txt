@@ -1,3 +1,4 @@
 In Anaconda Prompt, under statlearn environment, run
-	jupyer lab D:\Application\ISLP_labs\homework\...\filename.ipynb
+	jupyter lab D:\Application\ISLP_labs\homework\...\filename.ipynb
+	juptyer lab D:\Apps-SU\ISLP_labs\Ch03-linreg-lab.ipynb
 to open the code in Jupyer
