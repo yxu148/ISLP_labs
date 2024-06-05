@@ -1,0 +1,12 @@
+chapter 3 homework
+1.
+Since the p-values of Intercept, TV, and radio are very small, it means the three factors are important to estimate. Newspaper is not relative too much.
+
+2.
+The difference of KNN regression and classification model is at the difference of regression and classification.
+
+3.
+Salary = 50 + 0.07 * IQ + 35 * level + 0.01 * GPA * IQ - 10 * GPA * level
+(a) iii are right
+(b) 137.1k
+(c) False. The p-value isn't only dependent on the coefficient, but also the variance.
