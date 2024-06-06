@@ -10,3 +10,9 @@ Salary = 50 + 0.07 * IQ + 35 * level + 0.01 * GPA * IQ - 10 * GPA * level
 (a) iii are right
 (b) 137.1k
 (c) False. The p-value isn't only dependent on the coefficient, but also the variance.
+
+4.
+(a) training RSS = (train data - real data)^2, cubic regression is always closer
+(b) testing RSS = (train data - real model data)^2, linear regression is closer since the real model is also linear
+(c) same as (a)
+(d) not sure which regression is closer to real model, so not sure.
