@@ -1,0 +1,25 @@
+5.
+(a) Train and test are totally different. The higher power of x / the less assumption made, the better performance it will be.
+It's different case for test set. Too higher power of x / less assumption will lead to overfitting of the model, which will be bad at predicting.
+User the most appropriate model is good for testing.
+Thus, if the Bayes boundary is liner, QDA better on training, LDA better on testing.
+(b) Same as the analysis at (a). If the boundary is non-linear, QDA better on training and testing
+(c) As the sample size increase, QDA predicts better than LDA in general, because the variance can be offset by large sample sizes.
+(d) Only giving large training dataset, QDA can model LDD.
+
+8.
+1-nearest neighbors, KNN with K=1, will have error rate 0%.
+Thus the testing error of 1NN is 36%, which is higher than the testing error rate of logistic regression 30%. Thus I choose the latter method.
+
+9.
+Odds （赔率） == p/(1-p)  (the ratio of the probability that a thing happend verses not happened)
+(a) 27%
+(b) 19%
+
+10, 11 are too complex, and there are no solutions available. Give up.
+
+12.
+(a) beta_0 + beta_1 * x
+(b) (alpha_o0 - alpha_a0) + (alpha_o1 - alpha_a1) * x
+(c, d) Too easy
+(e) Don't know, no solution available
